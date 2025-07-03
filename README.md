@@ -1,10 +1,10 @@
-# 纪念我的坚持与勇气
+# CS61A-纪念我的渴望与坚持
 
-这是一个纪念品，纪念我这几个月的坚持，纪念我的勇气。
+这是一个纪念品，纪念我对好好编程的渴望，纪念我这几个月的支持
 
 ---
 
-> **Hany 曾说：**  
+> **记录了Hany在最后的lecture上所讲的一段话，令我感触颇深 ：**  
 >  
 > "I think one of the greatest gifts in life  
 > is being able to wake up every day and do the things  
@@ -15,4 +15,4 @@
 
 ---
 
-愿我们都有醒来的理由，都有热爱的事业，都有美好的生活
+愿我们都有醒来的理由，热爱的领域，长久的努力
